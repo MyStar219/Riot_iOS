@@ -1,0 +1,1 @@
+../../../MatrixKit/MatrixKit/Models/Search/MXKSearchCellData.h

@@ -1,0 +1,1 @@
+../../../MatrixKit/MatrixKit/Views/RoomBubbleList/MXKRoomIOSOutgoingBubbleTableViewCell.h

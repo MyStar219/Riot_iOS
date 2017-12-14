@@ -1,0 +1,1 @@
+../../../MatrixKit/MatrixKit/Models/RoomList/MXKRecentCellDataStoring.h

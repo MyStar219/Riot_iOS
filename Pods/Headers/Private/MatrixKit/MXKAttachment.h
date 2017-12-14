@@ -1,0 +1,1 @@
+../../../MatrixKit/MatrixKit/Models/Room/MXKAttachment.h

@@ -1,0 +1,1 @@
+../../../MatrixKit/MatrixKit/Models/PublicRoomList/DirectoryServerList/MXKDirectoryServerCellData.h
